@@ -16,6 +16,10 @@ https://pressbooks.bccampus.ca/teachinginadigitalagejpn/
 https://en.wikipedia.org/wiki/Open_educational_practices
 https://en.wikipedia.org/wiki/Open_educational_resources
 
+# コンセプト
+まず
+そのために以下のような
+
 
 学習目標、シラバス、オープンテキストブック、テストを再利用しやすい粒度で纏めたcertification-objectを組み合わせて、新たな資格試験を作る。教育機関の試験はすべてこれに置き換え、内部と外部の学習評価の垣根を無くす。
 
