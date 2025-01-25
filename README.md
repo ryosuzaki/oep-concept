@@ -17,17 +17,16 @@ https://en.wikipedia.org/wiki/Open_educational_practices
 https://en.wikipedia.org/wiki/Open_educational_resources
 
 # コンセプト構築方法
-OEPの抱える課題を解決する具体的なコンセプトの構築方法として、この新製品開発プロセスを参考にする。
+OEPの抱える課題を解決する具体的なコンセプトの構築方法として、以下の新製品開発プロセスを参考にする。
 
-https://en.wikipedia.org/wiki/New_product_development
+https://en.wikipedia.org/wiki/New_product_development#Conceptual_models
+[ステージゲート法](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%82%B2%E3%83%BC%E3%83%88%E6%B3%95_(%E6%89%8B%E6%B3%95))
 
-1. アイデアを生み出す
-2. アイデアのスクリーニング
-3. 製品戦略の作成
-4. 製品ロードマップの構築
-5. プロトタイピング
-6. テスト
-7. 製品の発売
+1. スコーピング（初期調査）
+2. ビジネスケースの策定
+3. プロトタイプ開発
+4. テストと検証
+5. 市場投入
 
 
 
