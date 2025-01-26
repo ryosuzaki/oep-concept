@@ -19,9 +19,10 @@ https://en.wikipedia.org/wiki/Open_educational_resources
 # コンセプト設計方法
 OEPの抱える課題を解決する具体的なコンセプトの設計方法として、以下の新製品開発プロセスを参考にする。特に本当にOEPによって生涯学習社会を実現させるのであれば、多くのステークホルダーの関与が欠かせないため、綿密で説得力のあるコンセプト設計が必要となる。
 
+
+メイン https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%82%B2%E3%83%BC%E3%83%88%E6%B3%95_(%E6%89%8B%E6%B3%95)
 https://ja.wikipedia.org/wiki/%E5%95%86%E5%93%81%E9%96%8B%E7%99%BA
 https://en.wikipedia.org/wiki/New_product_development#Conceptual_models
-https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%82%B2%E3%83%BC%E3%83%88%E6%B3%95_(%E6%89%8B%E6%B3%95)
 https://en.wikipedia.org/wiki/Phase-gate_process
 https://en.wikipedia.org/wiki/Opportunity_management
 
@@ -47,14 +48,14 @@ https://idportal.gsis.jp/~idportal/wp-content/uploads/jset2012ksuzuki969-970.pdf
 https://www.cyber-u.ac.jp/faq/classwork/classwork_19.html
 https://www.mext.go.jp/content/20201125-mxt_koutou01-1422495_04.pdf
 
-- また、学ぶための時間がない、費用がかかる、社会人や企業のニーズに合った実践的なプログラムが少ない、及び講座等の情報が得にくいことなどから、大学等での社会人の学び- が進まない状況に対して、文科省は社会人の学びの推進や多様な学習機会の提供、資格による学習成果の評価・活用などの推進を行っている。
+- また、学ぶための時間がない、費用がかかる、社会人や企業のニーズに合った実践的なプログラムが少ない、及び講座等の情報が得にくいことなどから、大学等での社会人の学び- が進まない状況に対して、文科省は社会人の学びの推進や多様な学習機会の提供、学習成果の評価・活用などの推進を行っている。
 
 https://www.mext.go.jp/b_menu/hakusho/html/hpab201901/detail/1421865.htm
 https://www.mext.go.jp/content/20210720-mxt_soseisk01-000016965_2-3.pdf
 
 これらを考慮し、このような段階を踏んだ教育の改革を実現する。
 
-今現在、殆どの教育機関では、ICTを使った方が学習効果の高い基礎知識習得も授業に混在しており、本来より授業内で重要視すべき応用課題に時間が割けていない。この様な流れを踏む。
+今現在、殆どの教育機関では、ICTを使った方が学習効果の高い基礎知識習得も授業に混在しており、本来より授業内で重要視すべき応用課題に時間が割けていない。それをこの様な流れに誘導する製品を開発することで移行する。
 
 ![image](https://github.com/user-attachments/assets/1a4b6147-1f67-4735-9d47-d7816760c661)
 
@@ -66,7 +67,7 @@ https://www.mext.go.jp/content/20210720-mxt_soseisk01-000016965_2-3.pdf
 
 ![image](https://github.com/user-attachments/assets/81626d48-8d60-4f96-82e7-923ba1dd2dd3)
 
-3. 資格取得のオープン化・モジュール化・統合による新規作成⇒オープンエデュケーション、多様で柔軟な学習機会の提供
+3. 資格取得のオープン化（オープン資格と仮置きする）・モジュール化・統合による新規作成⇒オープンエデュケーション、多様で柔軟な学習機会の提供、高品質な資格作成の容易化
 
 ![image](https://github.com/user-attachments/assets/777b34bc-e3ed-4b4a-968a-ebc7feaffb96)
 
@@ -77,6 +78,12 @@ https://www.mext.go.jp/content/20210720-mxt_soseisk01-000016965_2-3.pdf
 5. 応用課題のポートフォリオで学習を評価
 
 ![image](https://github.com/user-attachments/assets/292d8e41-bd57-4a77-bd91-f6e18bb9d910)
+
+この様な流れの核であるオープン資格構築システムの開発を行うことで、OEP、社会人の学びの推進や多様な学習機会の提供、学習成果の評価・活用を促進したい。
+
+## 2. スコーピング（初期調査）
+このステップでは、製品とその市場を評価することが主な目的となる。
+
 
 
 
